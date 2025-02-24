@@ -12,4 +12,4 @@ This extension allows you to preview tab hover cards and switch Chrome windows u
 ## Installation  
 1. **Download the Repository**  
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/chrome-tab-hover-preview.git
+   git clone https://github.com/Kecheprathamesh/Chrome-Tab-Powertoys.git

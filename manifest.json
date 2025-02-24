@@ -1,0 +1,46 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome Tab Scroll",
+    "version": "1.0",
+    "description": "Scroll through your open tabs with Ctrl/Command + Arrow keys and switch between Chrome windows with Ctrl/Command + Shift + Arrow keys.",
+    "permissions": ["tabs", "windows", "scripting"],
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "commands": {
+        "scroll-tabs-right": {
+            "suggested_key": {
+                "default": "Ctrl+Right",
+                "mac": "Command+Right"
+            },
+            "description": "Scroll tabs to the right"
+        },
+        "scroll-tabs-left": {
+            "suggested_key": {
+                "default": "Ctrl+Left",
+                "mac": "Command+Left"
+            },
+            "description": "Scroll tabs to the left"
+        },
+        "switch-windows-right": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+Right",
+                "mac": "Command+Shift+Right"
+            },
+            "description": "Switch windows to the right"
+        },
+        "switch-windows-left": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+Left",
+                "mac": "Command+Shift+Left"
+            },
+            "description": "Switch windows to the left"
+        }
+    },
+    "icons": {
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "action": {}
+}

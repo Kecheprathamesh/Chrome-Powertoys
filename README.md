@@ -2,8 +2,8 @@
 
 ---
 
-# Chrome-Powertoys    
-A Chrome Extension  
+# Chrome-Powertoys    /n A Chrome Extension  
+
 
 **Effortlessly Navigate Chrome Tabs & Windows Using Keyboard Shortcuts!**  
 

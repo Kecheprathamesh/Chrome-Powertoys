@@ -1,3 +1,5 @@
+
+
 ---
 
 # Chrome-Tab-Powertoys - Chrome Extension  
@@ -9,7 +11,7 @@ This extension enhances your browsing experience by allowing you to scroll throu
 ## Features  
 ✅ **Ctrl + Right/Left Arrow** → Scroll through tabs  
 ✅ **Ctrl + Shift + Right/Left Arrow** → Switch between Chrome windows  
-✅ Works on both Windows and macOS (uses command key on Mac instead of Ctrl)  
+✅ Works on both Windows and macOS (uses ⌘ on Mac instead of Ctrl)  
 ✅ Lightweight, efficient, and productivity-boosting  
 
 ## Installation  

@@ -2,7 +2,7 @@
 
 **Navigate Chrome Tabs & Windows Using Keyboard Shortcuts!**  
 
-This extension allows you to preview tab hover cards and switch Chrome windows using keyboard shortcuts, improving multitasking efficiency.  
+This extension allows you to preview tab hover cards and switch Chrome windows using keyboard shortcuts, improving multitasking efficiency. Currently, I have only added some basic functionalities, so feel free to share suggestions and issues.  
 
 ## Features  
 ✅ **Ctrl + Right/Left Arrow** → Switch tabs and trigger hover preview  

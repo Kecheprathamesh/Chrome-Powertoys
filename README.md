@@ -1,8 +1,9 @@
 
----  
+---
 
-# **Chrome-Powertoys** A Chrome Extension  
+# **Chrome-Powertoys**  
 
+**A Chrome Extension designed to**  
 **Effortlessly Navigate Chrome Tabs & Windows Using Keyboard Shortcuts!**  
 
 This extension enhances your browsing experience by allowing you to scroll through tabs and switch between Chrome windows using simple keyboard shortcuts.  
@@ -14,7 +15,7 @@ This extension enhances your browsing experience by allowing you to scroll throu
 ✅ Lightweight, efficient, and productivity-boosting  
 
 ## Installation  
-1. **Download the Repository**  
+1. **Download the Repository:**  
    ```sh  
    git clone https://github.com/Kecheprathamesh/Chrome-Powertoys.git  
    ```  
@@ -27,7 +28,7 @@ This extension enhances your browsing experience by allowing you to scroll throu
 - The extension listens for keyboard shortcuts:  
   - `Ctrl + Right/Left Arrow` → Moves between open tabs  
   - `Ctrl + Shift + Right/Left Arrow` → Switches between Chrome windows  
-- Works seamlessly across platforms by detecting OS and adapting shortcut behavior.  
+- Works seamlessly across platforms by detecting the OS and adapting shortcut behavior.  
 
 ## Permissions  
 This extension requires the following permissions:  
@@ -40,4 +41,4 @@ If you have ideas for improvement, feel free to open issues or submit pull reque
 ## License  
 [MIT License](LICENSE)  
 
----  
+---

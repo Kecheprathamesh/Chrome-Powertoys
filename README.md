@@ -2,7 +2,7 @@
 
 ---
 
-# Chrome-Tab-Powertoys - Chrome Extension  
+# Chrome-Powertoys - Chrome Extension  
 
 **Effortlessly Navigate Chrome Tabs & Windows Using Keyboard Shortcuts!**  
 
@@ -17,7 +17,7 @@ This extension enhances your browsing experience by allowing you to scroll throu
 ## Installation  
 1. **Download the Repository**  
    ```sh  
-   git clone https://github.com/Kecheprathamesh/Chrome-Tab-Powertoys.git  
+   git clone https://github.com/Kecheprathamesh/Chrome-Powertoys.git  
    ```  
 2. **Load the Extension in Chrome:**  
    - Open `chrome://extensions/`  

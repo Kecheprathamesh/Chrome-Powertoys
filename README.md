@@ -3,7 +3,7 @@
 
 # **Chrome-Powertoys**  
 
-**A Chrome Extension designed to**  
+**A Chrome Extension Designed To**  
 **Effortlessly Navigate Chrome Tabs & Windows Using Keyboard Shortcuts!**  
 
 This extension enhances your browsing experience by allowing you to scroll through tabs and switch between Chrome windows using simple keyboard shortcuts.  
